@@ -1,0 +1,45 @@
+.container{
+    width: 1000px;
+    margin: 0 auto
+}
+.clearfix {
+    clear: both; 
+}
+
+.logo {
+    float: left;
+    width: 15%;
+}
+.logo img {
+    width: 70%;
+}
+
+.text_item {
+    float: left;
+    width: 33%;
+    height: 150px;
+ 
+
+}
+.header{    
+    border-bottom: 2px solid black;
+    }
+.buttoms {
+    float: right;
+    margin-top: 25px;
+
+}
+
+
+li {
+    
+    display: inline;
+    background-color: green;
+    color: white;
+    margin-right: 10px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    font-size: 18px;
+    padding: 10px 15px;
+    
+    }
